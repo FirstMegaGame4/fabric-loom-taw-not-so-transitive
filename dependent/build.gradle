@@ -1,5 +1,4 @@
 loom {
-	accessWidenerPath = file("src/main/resources/dependent.classtweaker")
 }
 
 dependencies {
